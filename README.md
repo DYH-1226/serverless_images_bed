@@ -24,10 +24,9 @@ clone本仓库或者下载zip包直接上传[腾讯云无服务器云函数](htt
 1. 触发方式选择API网关触发器
 2. 请求方法添加一个GET(展示上传页面,若不需要可不添加)和一个POST(上传图片接口)。
 注：GET需要开启集成响应，post接口需要开启cors(点击api服务名即可配置)
-3. 如若使用upload.html实现上传,请获取上一步获取的POST地址后，需要填写在[upload.html](upload.html)中的scf_url后面![](screenshots/config_3.png)
-4. enjoy
+3. 如若使用upload.html实现上传,请获取上一步获取的POST地址后，需要填写在[upload.html](upload.html)中的scf_url后面![](screenshots/config_3.png) ![我的配置](screenshots/config_2.png)
 
-![我的配置](screenshots/config_2.png)
+Enjoy personal img service ！
 
 ## 其他
 创建对象存储时，注意跨域问题以及访问限制
