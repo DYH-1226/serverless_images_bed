@@ -1,4 +1,4 @@
-# scf_imgbed
+# serverless_img_bed
 基于腾讯云无服务器云函数和对象存储cos实现的图床。
 
 首先介绍下[腾讯云无服务器云函数](https://cloud.tencent.com/product/scf)和[腾讯云对象存储](https://cloud.tencent.com/product/cos)
