@@ -3,8 +3,6 @@
 
 首先介绍下[腾讯云无服务器云函数](https://cloud.tencent.com/product/scf)和[腾讯云对象存储](https://cloud.tencent.com/product/cos)
 
-## 主界面
-![主界面](screenshots/index.png)
 
 ## 如何使用
 
